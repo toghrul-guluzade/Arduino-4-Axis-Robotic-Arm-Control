@@ -1,5 +1,5 @@
 # Robotic Arm Control with Arduino
-![Representative photo](Arduino-4-Axis-Robotic-Arm-Control\media\representative-photo.jpg)
+![Representative photo](media/representative-photo.jpg)
 
 This project demonstrates how to control a robotic arm using four servos and potentiometers with an Arduino. The servos are mapped to the potentiometers to adjust the angles of different parts of the robotic arm.
 
@@ -14,7 +14,7 @@ This project demonstrates how to control a robotic arm using four servos and pot
 
 ## Circuit Diagram
 
-![Circuit Diagram](Arduino-4-Axis-Robotic-Arm-Control\media\Arduino-4-Axis-Robotic-Arm-Control-Image-Schematics.png)
+![Circuit Diagram](media/Arduino-4-Axis-Robotic-Arm-Control-Image-Schematics.png)
 
 
 ## How It Works
